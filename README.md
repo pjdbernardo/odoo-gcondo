@@ -7,4 +7,5 @@ Gestao de Condominios ... dockers
 - Docker Compose
 
 ## Como executar
+```bash
 docker compose up -d
